@@ -1,0 +1,23 @@
+{
+  "name": "abbreviations-shorten-stuff",
+  "version": "1.0.0",
+  "description": "TEST PUSH WOOOOO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebrivera5/Abbreviations-Shorten-Stuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebrivera5/Abbreviations-Shorten-Stuff/issues"
+  },
+  "homepage": "https://github.com/sebrivera5/Abbreviations-Shorten-Stuff#readme",
+  "dependencies": {
+    "firebase": "^9.9.4"
+  }
+}
