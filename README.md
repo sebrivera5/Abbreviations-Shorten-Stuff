@@ -1,0 +1,2 @@
+# Abbreviations-Shorten-Stuff
+hehe
